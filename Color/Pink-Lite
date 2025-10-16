@@ -11,7 +11,7 @@ return {
     ["f1G2h3I4j5K6l7M8n9O0p1Q2r3S4t"] = 7,
     ["u1V2w3X4y5Z6a7B8c9D0e1F2g3H4i"] = -45,
     ["j1K2l3M5n6O7p8Q9r0S1t2U3v4W5x"] = 2.25,
-    ["y1Z2a3B4c5D7e8F8g9H0i1J2k3L4m"] = Color3.fromRGB(0, 0, 0),
+    ["y1Z2a3B4c5D6e7F8g9H0i1J2k3L4m"] = Color3.fromRGB(0, 0, 0),
     ["n1O2p3Q4r5S6t7U8v9W0x1Y2z3A4b"] = Color3.fromRGB(0, 0, 0),
     ["c1D2e3F4g5H6i7J8k9L0m1N2o3P4q"] = 0.203,
     ["r1S2t3U4v5W6x7Y8z9A0b1C2d3E4f"] = 0.25,
