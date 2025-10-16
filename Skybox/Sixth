@@ -1,8 +1,8 @@
 return {
-    ['ZxCvBnMqWeRtYuIoPaSdFgHjKlQwEr'] = 'rbxassetid://4498828382',
-    ['PlMnBvCxZaSdFgHjKlQwErTyUiOpAz'] = 'rbxassetid://4498828812',
-    ['QwErTyUiOpAsDfGhJkLzXcVbNmLpQr'] = 'rbxassetid://4498829917',
-    ['AsDfGhJkLzXcVbNmQwErTyUiOpLmNz'] = 'rbxassetid://4498830911',
-    ['XcVbNmQwErTyUiOpAsDfGhJkLzAaBb'] = 'rbxassetid://4498830417',
-    ['MzXcVbNmAsDfGhJkLqWeRtYuIoPaSz'] = 'rbxassetid://4498831746'
+    ['QwErTyUiOpAsDfGhJkLzXcVbNmQwEr'] = 'rbxassetid://4498828382',
+    ['MzXcVbNmAsDfGhJkLqWeRtYuIoPaSz'] = 'rbxassetid://4498828812',
+    ['PlMnBvCxZaSdFgHjKlQwErTyUiOpAz'] = 'rbxassetid://4498829917',
+    ['QwErTyUiOpAsDfGhJkLzXcVbNmLpQr'] = 'rbxassetid://4498830911',
+    ['AsDfGhJkLzXcVbNmQwErTyUiOpLmNz'] = 'rbxassetid://4498830417',
+    ['XcVbNmQwErTyUiOpAsDfGhJkLzAaBb'] = 'rbxassetid://4498831746'
 }
