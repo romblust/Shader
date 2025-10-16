@@ -1,7 +1,7 @@
 return {
-	["a1B2c3D4e5F6g7H8i9J0k1L2m3N4o"] = - 0.02,
+	["a1B2c3D4e5F6g7H8i9J0k1L2m3N4o"] = -0.02,
 	["p1Q2r3S4t5U6v7W8x9Y0z1A2b3C4d"] = 0.8,
-	["e1F2g3H4i5J6k7L8m9N0o1P2q3R4s"] = - 0.5,
+	["e1F2g3H4i5J6k7L8m9N0o1P2q3R4s"] = -0.5,
 	["t1U2v3W4x5Y6z7A8b9C0d1E2f3G4h"] = Color3.fromRGB(100, 150, 200),
 	["i1J2k3L4m5N6o7P8q9R0s1T2u3V4w"] = 0.2,
 	["x1Y2z3A4b5C6d7E8f9G0h1I2j3K4l"] = 5,
